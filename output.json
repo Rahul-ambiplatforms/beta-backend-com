@@ -1,0 +1,12 @@
+{
+  "uuid": "AAAA-011214-AAAAA",
+  "grUuid": "reception@vmukti.com",
+  "streamCfg": [
+    {
+      "enabled": null,
+      "enableAudio": null,
+      "enableTelnet": null,
+      "isHd": null
+    }
+  ]
+}
